@@ -1,7 +1,7 @@
 ## Ola 👋
 
 - 🔭 Atualmente estudando para se tornar um desenvolvedor
-- 🌱 Aprendendo HTML, CSS, JS/React e GML
+- 🌱 Aprendendo CSS, JS/React e GML
 - 🤔 Procurando por ajuda em Game Maker
 - 📫 Como me achar: alem4ck@gmail.com
 - 😄 Pronomes: Ele/Dele
