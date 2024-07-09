@@ -1,8 +1,8 @@
 ## Ola 👋
 
-- 🔭 I’m currently studying to be a developer
-- 🌱 I’m currently learning HTML, CSS, JS and GML
-- 🤔 I’m looking for help with Game Maker
-- 📫 How to reach me: alem4ck@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: idk how to commit
+- 🔭 Atualmente estudando para se tornar um desenvolvedor
+- 🌱 Aprendendo HTML, CSS, JS/React e GML
+- 🤔 Procurando por ajuda em Game Maker
+- 📫 Como me achar: alem4ck@gmail.com
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fato curioso: eu não sei dar commit
