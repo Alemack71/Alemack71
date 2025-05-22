@@ -1,4 +1,4 @@
-## Ola 👋
+## Olá 👋
 
 - 🔭 Atualmente estudando para se tornar um desenvolvedor
 - 🌱 Aprendendo CSS, JS e Dart
